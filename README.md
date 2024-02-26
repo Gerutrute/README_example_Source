@@ -108,6 +108,7 @@ ex)
 
 ![텍스트](이미지 링크 주소) <br>
 ![CNN-Figure-02](https://user-images.githubusercontent.com/85111065/173890872-1592710c-4711-42a0-803c-6d37ebcd2b3e.png)
+<img width="1356" alt="Screenshot 2024-02-26 at 12 02 42 PM" src="https://github.com/Gerutrute/README_example_Source/assets/96192262/651b4710-c50c-40c9-89f0-0a709bca0f83">
 
 
 <img src="./APOD.jpg" width="300"> <br>
